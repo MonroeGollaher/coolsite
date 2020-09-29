@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+
+header {
+    color: rgb(255, 255, 255);
+    background-color: rgb(29, 67, 134); 
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+
+.container {
+    flex-direction: row;
+    display: flex;
+}
+
+.container .article {
+    display: flex;
+    width: 50vw;
+    flex-direction: column;
+    margin-left: 20vw;
+    margin-right: 5vw;
+}
+
+#secondArticle {
+    width: 10vw;
+    font-size: 12px;
+    margin-bottom: 3vw;
+}
+
+#secondArticle img {
+    width: 10vw;
+}
+
+
+footer {
+    background-color: rgb(29, 67, 134); 
+    height: 10vw;
+}
