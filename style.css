@@ -7,6 +7,9 @@ header {
     background-color: rgb(29, 67, 134); 
     padding-top: 5px;
     padding-bottom: 0px;
+}
+
+.intro h2 {
     text-align: center;
 }
 
